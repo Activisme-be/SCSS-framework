@@ -1,5 +1,7 @@
 # SCSS mixin framework
 
+**NOTE:** This repository is migrated because another server. No issues will be accepted anymore. 
+
 [![Build Status](https://travis-ci.org/Activisme-be/SCSS-framework.svg?branch=master)](https://travis-ci.org/Activisme-be/SCSS-framework)
 
 ## Versioning 
